@@ -1,3 +1,7 @@
+# Fork Information
+
+Fork papertrail to port new features to rails2 branch.
+
 # PaperTrail
 
 PaperTrail lets you track changes to your models' data.  It's good for auditing or versioning.  You can see how a model looked at any stage in its lifecycle, revert it to any version, and even undelete it after it's been destroyed.
